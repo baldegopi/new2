@@ -14,6 +14,8 @@ creator.gui.screen qml3fed1e2dfb094fd2b77cf25ac10d2349 "LogIn"
 	}
 	creator.gui.button qmlcc00a03797da44c08e2ae473ced4eb67 "LOGIN"
 		status = dontcare;
+	creator.gui.button qml6eaa9e9f72014d25bbb310a00b916064 "CANCEL"
+		status = dontcare;
 }
 creator.customaction qml99782004771244fc8b28b8179c614024 "EnterURL"
 	shortform = "CA"

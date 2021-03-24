@@ -34,6 +34,14 @@
         <element xmi:type="com.conformiq.creator.structure.dsl:Button" href="LogIn.sl#qmlcc00a03797da44c08e2ae473ced4eb67"/>
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mK1C5IsjEeuBiNiWePXdng" x="139" y="148"/>
       </children>
+      <children xmi:type="notation:Node" xmi:id="_-jH0MIxnEeu9B-eIveeFdw" type="3014">
+        <children xmi:type="notation:DecorationNode" xmi:id="_-jH0NYxnEeu9B-eIveeFdw" type="5016"/>
+        <styles xmi:type="notation:DescriptionStyle" xmi:id="_-jH0MYxnEeu9B-eIveeFdw"/>
+        <styles xmi:type="notation:FontStyle" xmi:id="_-jH0MoxnEeu9B-eIveeFdw" fontName="Segoe UI"/>
+        <styles xmi:type="notation:LineStyle" xmi:id="_-jH0M4xnEeu9B-eIveeFdw"/>
+        <element xmi:type="com.conformiq.creator.structure.dsl:Button" href="LogIn.sl#qml6eaa9e9f72014d25bbb310a00b916064"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-jH0NIxnEeu9B-eIveeFdw" x="72" y="160"/>
+      </children>
     </children>
     <styles xmi:type="notation:DescriptionStyle" xmi:id="_QDOSkYsjEeuBiNiWePXdng"/>
     <styles xmi:type="notation:FontStyle" xmi:id="_QDOSkosjEeuBiNiWePXdng" fontName="Segoe UI"/>
